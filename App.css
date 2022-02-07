@@ -1,0 +1,39 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+#comprar {
+    border: 0;
+    color: gray;
+    font-weight: bold;
+    background-color: rgb(235, 252, 6);
+    padding: 10px;
+    margin-top: 2.5px;
+    border-radius: 0.5em;
+
+  }
+
+  .contacto{
+      
+      padding: 5rem;
+      
+  }
+  .total{
+    border: 0;
+    color: gray;
+    font-weight: bold;
+    background-color: rgb(235, 252, 6);
+    padding: 10px;
+    margin-top: 2.5px;
+    border-radius: 0.5em; 
+  }
